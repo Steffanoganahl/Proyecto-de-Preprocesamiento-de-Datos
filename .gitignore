@@ -1,3 +1,14 @@
 __pycache__
 .env
 .learn
+
+# Datos procesados (no subir a git)
+/data/processed/
+/data/interim/
+
+# Modelos entrenados (no subir a git)
+/models/
+
+# Archivos del sistema
+.DS_Store
+*.pyc
